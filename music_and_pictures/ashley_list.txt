@@ -1,0 +1,4 @@
+Softcore;The Neighbourhood - Softcore (Audio).wav;Softcore_cover.jpg
+505;505.wav;505_cover.jpg
+Lookalike;Lookalike.wav;Lookalike_cover.jpg
+Flawless;The Neighbourhood - Flawless (Visualette).wav;Flawless_cover.jpg

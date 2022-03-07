@@ -1,0 +1,4 @@
+Finesse;Finesse.wav;finesse_cover.jpg
+Could've Been;Could've Been.wav;could've been_cover.jpg
+Hold On;Hold On We're Going Home.wav;hold on we're going home_cover.jpg
+Sober;Sober.wav;sober_cover.jpg

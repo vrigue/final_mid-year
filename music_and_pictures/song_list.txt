@@ -1,0 +1,4 @@
+Gurenge;Gurenge (TV Version).wav;gurenge_cover.jpg
+Sweater Weather;Sweater Weather.wav;sweater_weather_cover.jpg
+Riptide;Riptide.wav;riptide_cover.jpg
+Worth It;Worth It.wav;worth_it_cover.jpeg

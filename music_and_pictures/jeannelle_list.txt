@@ -1,0 +1,4 @@
+Gurenge;Gurenge (TV Version).wav;gurenge_cover.jpg
+Riptide;Riptide.wav;riptide_cover.jpg
+Runaway;Runaway.wav;runaway_cover.jpg
+Sports;Sports.wav;sports_cover.jpg

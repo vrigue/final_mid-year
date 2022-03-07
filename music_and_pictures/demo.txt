@@ -1,0 +1,3 @@
+Coffee;Coffee.wav;coffee_cover.jpg
+
+51;0;255

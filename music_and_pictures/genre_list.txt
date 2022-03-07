@@ -1,0 +1,4 @@
+Jeannelle;Jeannelle's Playlist!;jeannelle_list.txt;231;0;255
+Ashley;Ashley's Playlist!;ashley_list.txt;255;196;0
+Morgan;Morgan's Playlist!;morgan_list.txt;230;50;0
+Vrielle;Vrielle's Playlist!;vrielle_list.txt;170;0;230
